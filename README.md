@@ -1,1 +1,1 @@
-# hacathon
+# IEEE hackathon
